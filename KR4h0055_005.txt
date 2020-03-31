@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 三體唐詩
-#+DATE: 2020-03-31 11:42:25.832982
+#+DATE: 2020-03-31 11:42:25.938958
 #+PROPERTY: ID KR4h0055
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR4h0055_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -75,7 +75,7 @@
 草薰苔徑晴楊拂石磯俗人猶語此余亦轉忘歸¶
 ¶
 <pb:KR4h0055_WYG_005-3b>¶
-　　送陸明府之盱&KR0455;　　　　　　　崔峒¶
+　　送陸明府之盱𣅿　　　　　　　崔峒¶
 ¶
 　　陶令之官去離愁慘别魂白烟連海戍紅葉近淮村逺¶
 浪搖山郭平蕪到縣門政成堪吏隠(汝南先賢傳鄭欽吏隠于蟻陂之陽)¶
